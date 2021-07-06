@@ -1,0 +1,31 @@
+body{
+background-image:url("photo/bgfather.png");
+background-size:cover;
+background-repeat: no-repeat;
+}
+
+.th
+{
+margin:50px;
+height:80px
+text-size:5;
+font-weight: bold;
+height:25;
+}
+
+.tr
+{
+margin:50px;
+height:80px
+text-size:5;
+}
+
+.h1
+{
+margin:50px;
+height:80px
+position: relative;
+text-align: center;
+width:300;
+height:40
+}

@@ -1,0 +1,35 @@
+
+body{
+background-image:url("photo/bgsister3.png");
+background-size:100% 100%;
+background-repeat: no-repeat;
+}
+
+.th
+{
+font-family:"times new roman"
+margin:50px;
+height:80px
+text-size:5;
+font-weight: bold;
+height:25;
+}
+
+.tr
+{
+font-family:"times new roman"
+margin:50px;
+height:80px
+text-size:5;
+}
+
+.h1
+{
+font-family:"Times New Roman"
+margin:50px;
+height:80px
+position: relative;
+text-align: center;
+width:300;
+height:40
+}
